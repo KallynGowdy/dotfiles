@@ -96,5 +96,12 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Android Dev Tools
+brew install ant
+brew install maven
+brew install gradle
+brew install android-sdk
+brew install android-ndk
+
 # Remove outdated versions from the cellar.
 brew cleanup

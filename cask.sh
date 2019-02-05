@@ -19,6 +19,8 @@ brew cask install gitkraken
 brew cask install iterm2
 brew cask install unity-hub
 
-
+brew cask install android-sdk
+brew cask install android-ndk
+brew cask install android-studio
 
 brew cleanup
