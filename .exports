@@ -34,11 +34,8 @@ export MANPAGER='less -X';
 export GPG_TTY=$(tty);
 
 # Android SDK Exports
-export ANT_HOME=/usr/local/opt/ant
-export MAVEN_HOME=/usr/local/opt/maven
-export GRADLE_HOME=/usr/local/opt/gradle
-export ANDROID_HOME=/usr/local/share/android-sdk
-export ANDROID_NDK_HOME=/usr/local/share/android-ndk
+export ANDROID_HOME=/Users/kallyngowdy/Library/Android/sdk
+export ANDROID_NDK_HOME=/Users/kallyngowdy/Library/Android/ndk
 export ANDROID_SDK_ROOT=$ANDROID_HOME
 
 # NVM
