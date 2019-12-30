@@ -28,7 +28,6 @@ brew cask install android-ndk
 brew cask install android-studio
 
 # .Net
-brew cask install dotnet
 brew cask install dotnet-sdk
 
 brew cleanup
