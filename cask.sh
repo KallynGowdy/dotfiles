@@ -18,6 +18,7 @@ brew cask install visual-studio-code
 brew cask install gitkraken
 brew cask install iterm2
 brew cask install unity-hub
+brew cask install docker
 
 # Android SDK
 brew cask install android-studio
